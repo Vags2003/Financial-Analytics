@@ -52,3 +52,6 @@ This project provides a comprehensive analysis of the top 500 companies in India
 ## Future Scope
 Include more attributes such as profits, employee count, or net income for deeper insights.
 Conduct time-series analysis to observe how market cap and sales evolve over time.
+
+## Tableau Public Link
+
